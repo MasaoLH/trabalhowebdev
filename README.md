@@ -5,11 +5,11 @@ André Felipe\
 Bruno Gabriel\
 Kerven Ayres\
 Luan Masao\
-Rafael Canella\
+Rafael Canella
 
 ### Frameworks/ Programas utilizados:
 Mysql Workbench\
 Xampp(Apache/Mysql server)\
-Bootstrap\
+Bootstrap
 
 
