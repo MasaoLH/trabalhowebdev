@@ -1,0 +1,84 @@
+/* Reset de estilos para garantir consistência entre navegadores */
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+table,
+th,
+td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.box {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 800px;
+}
+
+legend {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.table-striped {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.coluna {
+    padding: 10px;
+    text-align: left;
+}
+
+.bt1,
+.bt2 {
+    margin-right: 5px;
+}
+
+.bt1 {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2px;
+}
+
+.bt2 {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 2px;
+}
+
+.butao {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #28a745;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.butao:hover {
+    background-color: #218838;
+}
+
+.m-5 {
+    margin: 5px;
+}
